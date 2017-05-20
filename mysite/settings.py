@@ -25,7 +25,7 @@ SECRET_KEY = 'fvo3o5i)j3uryt8&q*ry3-%33n=%6yqsr&*&qa0smg-2a3tt+z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['thelimejuice.pythonanywhere.com']
 
 
 # Application definition
